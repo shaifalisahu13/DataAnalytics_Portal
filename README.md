@@ -35,10 +35,7 @@
 
 ---
 
-## 📦 Installation
 
-Clone the repository:
 
-```bash
-git clone https://github.com/<your-username>/insight-explorer.git
-cd insight-explorer
+
+
