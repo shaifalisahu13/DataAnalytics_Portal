@@ -19,7 +19,7 @@
 
 ## 🖥️ Live App
 
-👉 [Launch App on Streamlit Cloud](https://shaifalisahu-insight-explorer.streamlit.app)
+👉 [Launch App on Streamlit Cloud](https://insight-explorer.streamlit.app/)
 
 ---
 
